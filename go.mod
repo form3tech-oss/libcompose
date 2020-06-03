@@ -6,7 +6,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78 // indirect
 	github.com/Microsoft/hcsshim v0.8.9 // indirect
 	github.com/containerd/continuity v0.0.0-20200413184840-d3ef23f19fbb // indirect
-	github.com/docker/cli v0.0.0-20190711175710-5b38d82aa076
+	github.com/docker/cli v0.0.0-20200528204125-dd360c7c0de8
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker v0.7.3
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
