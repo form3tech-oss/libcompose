@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/docker/libcompose/config"
-	"github.com/docker/libcompose/docker/ctx"
-	"github.com/docker/libcompose/project"
+	"github.com/form3tech-oss/libcompose/config"
+	"github.com/form3tech-oss/libcompose/docker/ctx"
+	"github.com/form3tech-oss/libcompose/project"
 )
 
 // Factory is an implementation of project.ServiceFactory.

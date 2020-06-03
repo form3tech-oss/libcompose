@@ -8,7 +8,7 @@ import (
 
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/client"
-	"github.com/docker/libcompose/labels"
+	"github.com/form3tech-oss/libcompose/labels"
 	"github.com/pkg/errors"
 )
 

@@ -13,7 +13,6 @@ require (
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/go-metrics v0.0.1 // indirect
 	github.com/docker/go-units v0.4.0
-	github.com/docker/libcompose v0.0.0-00010101000000-000000000000
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7 // indirect
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568
 	github.com/google/go-cmp v0.4.1 // indirect
@@ -40,5 +39,3 @@ require (
 )
 
 replace github.com/docker/docker => github.com/docker/engine v0.0.0-20190725163905-fa8dd90ceb7b
-
-replace github.com/docker/libcompose => github.com/form3tech-oss/libcompose v0.4.1-0.20200603125131-fc9685b886fc

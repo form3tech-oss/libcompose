@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/docker/libcompose/config"
-	"github.com/docker/libcompose/logger"
+	"github.com/form3tech-oss/libcompose/config"
+	"github.com/form3tech-oss/libcompose/logger"
 	"github.com/sirupsen/logrus"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/docker/libcompose/config"
+	"github.com/form3tech-oss/libcompose/config"
 )
 
 // OsEnvLookup is a "bare" structure that implements the project.EnvironmentLookup interface

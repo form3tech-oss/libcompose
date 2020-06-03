@@ -11,7 +11,7 @@ import (
 	"github.com/docker/docker/client"
 	"github.com/docker/docker/pkg/homedir"
 	"github.com/docker/go-connections/tlsconfig"
-	"github.com/docker/libcompose/version"
+	"github.com/form3tech-oss/libcompose/version"
 )
 
 const (

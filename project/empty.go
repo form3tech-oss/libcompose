@@ -3,9 +3,9 @@ package project
 import (
 	"golang.org/x/net/context"
 
-	"github.com/docker/libcompose/config"
-	"github.com/docker/libcompose/project/events"
-	"github.com/docker/libcompose/project/options"
+	"github.com/form3tech-oss/libcompose/config"
+	"github.com/form3tech-oss/libcompose/project/events"
+	"github.com/form3tech-oss/libcompose/project/options"
 )
 
 // this ensures EmptyService implements Service

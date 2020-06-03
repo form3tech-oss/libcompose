@@ -3,7 +3,7 @@ package project
 import (
 	"sync"
 
-	"github.com/docker/libcompose/project/events"
+	"github.com/form3tech-oss/libcompose/project/events"
 	log "github.com/sirupsen/logrus"
 )
 

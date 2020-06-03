@@ -3,7 +3,7 @@ package config
 import (
 	"sync"
 
-	"github.com/docker/libcompose/yaml"
+	"github.com/form3tech-oss/libcompose/yaml"
 )
 
 // EnvironmentLookup defines methods to provides environment variable loading.

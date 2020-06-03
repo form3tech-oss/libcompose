@@ -10,8 +10,8 @@ import (
 	"reflect"
 
 	"github.com/docker/docker/pkg/urlutil"
-	"github.com/docker/libcompose/utils"
-	composeYaml "github.com/docker/libcompose/yaml"
+	"github.com/form3tech-oss/libcompose/utils"
+	composeYaml "github.com/form3tech-oss/libcompose/yaml"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v2"
 )

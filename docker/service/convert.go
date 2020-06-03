@@ -10,11 +10,11 @@ import (
 	"github.com/docker/docker/api/types/strslice"
 	"github.com/docker/go-connections/nat"
 	"github.com/docker/go-units"
-	"github.com/docker/libcompose/config"
-	composeclient "github.com/docker/libcompose/docker/client"
-	composecontainer "github.com/docker/libcompose/docker/container"
-	"github.com/docker/libcompose/project"
-	"github.com/docker/libcompose/utils"
+	"github.com/form3tech-oss/libcompose/config"
+	composeclient "github.com/form3tech-oss/libcompose/docker/client"
+	composecontainer "github.com/form3tech-oss/libcompose/docker/container"
+	"github.com/form3tech-oss/libcompose/project"
+	"github.com/form3tech-oss/libcompose/utils"
 	"golang.org/x/net/context"
 )
 

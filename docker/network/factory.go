@@ -1,9 +1,9 @@
 package network
 
 import (
-	"github.com/docker/libcompose/config"
-	composeclient "github.com/docker/libcompose/docker/client"
-	"github.com/docker/libcompose/project"
+	"github.com/form3tech-oss/libcompose/config"
+	composeclient "github.com/form3tech-oss/libcompose/docker/client"
+	"github.com/form3tech-oss/libcompose/project"
 )
 
 // DockerFactory implements project.NetworksFactory

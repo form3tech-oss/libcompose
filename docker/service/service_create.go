@@ -10,12 +10,12 @@ import (
 	"github.com/docker/docker/api/types"
 	containertypes "github.com/docker/docker/api/types/container"
 	"github.com/docker/docker/api/types/network"
-	"github.com/docker/libcompose/config"
-	composecontainer "github.com/docker/libcompose/docker/container"
-	"github.com/docker/libcompose/labels"
-	"github.com/docker/libcompose/project"
-	"github.com/docker/libcompose/project/events"
-	util "github.com/docker/libcompose/utils"
+	"github.com/form3tech-oss/libcompose/config"
+	composecontainer "github.com/form3tech-oss/libcompose/docker/container"
+	"github.com/form3tech-oss/libcompose/labels"
+	"github.com/form3tech-oss/libcompose/project"
+	"github.com/form3tech-oss/libcompose/project/events"
+	util "github.com/form3tech-oss/libcompose/utils"
 	"github.com/sirupsen/logrus"
 )
 

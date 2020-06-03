@@ -3,8 +3,8 @@ package project
 import (
 	"golang.org/x/net/context"
 
-	"github.com/docker/libcompose/project/events"
-	"github.com/docker/libcompose/project/options"
+	"github.com/form3tech-oss/libcompose/project/events"
+	"github.com/form3tech-oss/libcompose/project/options"
 )
 
 // Build builds the specified services (like docker build).

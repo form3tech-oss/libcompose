@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/docker/libcompose/utils"
+	"github.com/form3tech-oss/libcompose/utils"
 )
 
 // Label represents a docker label.
