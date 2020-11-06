@@ -34,7 +34,7 @@ type Container struct {
 
 // Create creates a container and return a Container struct (and an error if any)
 func Create(ctx context.Context, client client.ContainerAPIClient, name string, config *container.Config, hostConfig *container.HostConfig, networkingConfig *network.NetworkingConfig) (*Container, error) {
-	container, err := client.ContainerCreate(ctx, config, hostConfig, networkingConfig, name)
+	container, err := client.ContainerCreate(ctx, config, hostConfig, networkingConfig, nil, name)
 	if err != nil {
 		return nil, err
 	}
